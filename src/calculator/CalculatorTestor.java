@@ -5,6 +5,4 @@ public class CalculatorTestor {
 		//new Calculator().averageThree();
 		new Calculator().getThreeNumbers();
 		}
-
-
 }
